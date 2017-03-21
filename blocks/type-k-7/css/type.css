@@ -1,0 +1,40 @@
+.type-5 {
+  background: #7e9399;
+}
+.type-5 .main-titles {
+  text-align: center;
+}
+.type-5 .main-titles .title {
+  position: relative;
+  margin-bottom: 15px;
+  font-weight: bold;
+  padding-bottom: 16px;
+  font-size: 20px;
+}
+.type-5 .main-titles .title .light {
+  font-weight: normal;
+}
+.type-5 .abc {
+  padding-bottom: 40px;
+}
+.type-5 .abc .news-item {
+  background: #e6e6e6;
+  background: rgba(255,255,255,0.6);
+  padding: 10px 15px;
+  margin: 15px;
+  border-radius: 3px;
+  font-size: 12px;
+}
+.type-5 .abc .news-item h6 a {
+  color: #000;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+.type-5 .abc .news-item .published {
+  text-transform: uppercase;
+  margin-top: 9px;
+  font-size: 11px;
+  padding-left: 10px;
+  float: right;
+}

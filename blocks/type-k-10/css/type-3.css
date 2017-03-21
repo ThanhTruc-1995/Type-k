@@ -1,0 +1,168 @@
+.type .type-10 .darker-stripe {
+  background: -webkit-radial-gradient(40% 30%,circle farthest-side,#9aabb0,#7e9399), #7e9399;
+  padding: 8px 0;
+  overflow: hidden;
+  min-height: 90px;
+}
+.type .type-10 .breadcrumb {
+  background: none;
+  font-size: 12px;
+  padding: 0;
+  margin-top: -1px;
+  margin-bottom: 0;
+  padding: 8px 15px;
+  list-style: none;
+  border-radius: 3px;
+}
+.type .type-10 .breadcrumb a {
+  color: #fff;
+}
+.type .type-4 .push-up.top-equal {
+  padding-top: 25px;
+}
+.type .type-4 .blocks-spacer {
+  margin-bottom: 30px;
+}
+.type .type-4 .push-up {
+  margin-top: -46px;
+  background: white;
+  border-radius: 5px;
+  padding: 17px 25px 0;
+}
+.type .type-4 .product-preview .picture {
+  margin-bottom: 10px;
+}
+.type .type-4 .product-preview .thumbs {
+  margin-left: -2%;
+}
+.type .type-4 .product-preview img {
+  border: 1px solid #e0e0e0;
+  transition: border 0.2s ease;
+}
+.type .type-4 .product-preview .thumbs .thumb_click {
+  width: 18%;
+  margin-left: 2%;
+  margin-bottom: 2%;
+  float: left;
+}
+.type .type-4 .product-preview .thumbs .thumb_click a {
+  color: #00becc;
+  transition: color 0.2s ease;
+  text-decoration: none;
+}
+.type .type-4 .product-preview .thumbs .thumb_click img:hover {
+  border-width: 3px;
+  border-color: #00becc;
+}
+.type .type-4 .picture {
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+.type .type-4 .picture img {
+  width: 100%;
+}
+.type .type-4 img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+.type .type-4 .product-title {
+  color: #34353e;
+  margin-bottom: 30px;
+}
+.type .type-4 .product-title .name {
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.type .type-4 .product-title .name .light {
+  font-weight: bold;
+}
+.type .type-4 .product-title .meta .tag {
+  font-size: 30px;
+  font-weight: bold;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.type .type-4 .product-title .meta .stock .btn-a {
+  vertical-align: baseline;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: #a7d155;
+  color: white;
+  box-shadow: 0 2px 0 #7ba32c;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+}
+.type .type-4 .product-title .meta .stock .btn-a:hover {
+  background: #9dcc41;
+}
+.type .type-4 .product-title .meta .stock .btn-b {
+  font-weight: bold;
+  background-color: #e54b5d;
+  color: white;
+  box-shadow: 0 2px 0 #be1b2e;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+}
+.type .type-4 .product-title .meta .stock .btn-b:hover {
+  background: #e23549;
+}
+.type .type-4 .product-title .meta .stock .btn-c {
+  font-weight: bold;
+  background-color: #faa328;
+  color: white;
+  box-shadow: 0 2px 0 #c77605;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+}
+.type .type-4 .product-title .meta .stock .btn-c:hover {
+  background: #f9980f;
+}
+.type .type-4 .product-description .share-item {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #f3f3f3;
+  padding: 10px 12px 7px 12px;
+  color: #6a6a6a;
+  font-size: 12px;
+}
+.type .type-4 .product-description .share-item .btn-t {
+  background-color: #1b95e0;
+  color: white;
+}
+.type .type-4 .product-description .share-item .btn-f {
+  background-color: #4763b2;
+  color: white;
+}
+.type .type-4 .product-description .share-item .btn-g {
+  background-color: #c23321;
+  color: white;
+}
+.type .type-4 .product-description .store-buttons a {
+  color: #00becc;
+  font-size: 13px;
+}
+.type .type-4 .product-description .push-down-20 {
+  margin-bottom: 20px;
+}
+.type .type-4 .product-description p {
+  color: #999999;
+  font-size: 12px;
+}
+.type .type-4 .product-description .form .btn-d {
+  font-weight: bold;
+  background-color: #e54b5d;
+  color: white;
+  box-shadow: 0 2px 0 #be1b2e;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+}
+.type .type-4 .product-description .form .btn-d:hover {
+  background: #e23549;
+}
+.type .type-4 .product-description .form .numbered .form-control {
+  width: 30%;
+}
+.type .type-4 .product-description .form #sel1 {
+  width: 150px;
+}

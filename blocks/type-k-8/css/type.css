@@ -1,0 +1,88 @@
+.type .type-6 {
+  padding: 30px;
+}
+.type .type-6 .main-titles {
+  position: relative;
+  margin-bottom: 15px;
+  font-weight: bold;
+  padding-bottom: 16px;
+}
+.type .type-6 .main-titles .title {
+  margin: 0;
+  font-size: 20px;
+}
+.type .type-7 .foot-light {
+  background: url('../images/foot-light.jpg') repeat;
+  padding: 30px 0;
+  color: #bbbbbb;
+  font-size: 12px;
+}
+.type .type-7 .foot-light .text {
+  background-color: #333333;
+  border: none;
+  box-shadow: 0 2px 2px rgba(0,0,0,0.3) inset;
+  color: #bbbbbb;
+  padding: 10px;
+}
+.type .type-7 .foot-light .pacifico {
+  font-family: 'Pacifico', cursive;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+}
+.type .type-7 .foot-light .pacifico h2,
+.type .type-7 .foot-light .pacifico h3 {
+  color: #ffffff;
+}
+.type .type-7 .foot-light .pacifico .main-titles {
+  position: relative;
+  margin-bottom: 15px;
+  font-weight: bold;
+  padding-bottom: 16px;
+}
+.type .type-7 .foot-light .pacifico .main-titles .title {
+  margin: 0;
+  font-size: 20px;
+}
+.type .type-7 .foot-dark {
+  background: url('../images/foot-dark.jpg') repeat;
+  padding: 30px 0 40px;
+  color: #fff;
+  font-size: 12px;
+}
+.type .type-7 .foot-dark .main-title {
+  position: relative;
+  margin-bottom: 15px;
+  font-weight: bold;
+  padding-bottom: 16px;
+}
+.type .type-7 .foot-dark li {
+  padding: 3px 0;
+}
+.type .type-7 .foot-dark li a {
+  color: #999;
+  padding-left: 0;
+  padding-bottom: 0;
+  font-weight: bold;
+}
+.type .type-7 .foot-dark .nav a:hover {
+  background: none;
+  color: #00becc;
+  text-decoration: underline;
+}
+.type .type-7 .foot-last {
+  background-color: #222222;
+  padding: 12px 0;
+  position: relative;
+}
+.type .type-7 .foot-last a {
+  font-weight: bold;
+  color: white;
+}
+.type .type-7 .foot-last p {
+  color: #727272;
+  font-size: 14px;
+}
+.type .type-7 .foot-last pull-right {
+  color: #727272;
+  font-size: 14px;
+}

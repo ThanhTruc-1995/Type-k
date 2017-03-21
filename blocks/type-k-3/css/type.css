@@ -1,0 +1,13 @@
+.type-3 .carousel {
+  background: #2f4357;
+  margin-top: 20px;
+}
+.type-3 .carousel .item img {
+  margin: 0 auto;
+}
+.type-3 .bs-example {
+  margin: 20px;
+}
+.type-3 .item img {
+  width: 100%;
+}
